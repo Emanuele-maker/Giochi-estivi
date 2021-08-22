@@ -87,7 +87,7 @@ class Player2 {
     }
 }
 
-//Questo oggetto rappresenta la pallina, la quale ha una semplice meccanica che le permette di muoversi all'infinito e un'altra per controllare le sue collisioni: ogni volta che rimbalzerà a un muro, la sua velocità aumenteràame
+//Questo oggetto rappresenta la pallina, la quale ha una semplice meccanica che le permette di muoversi all'infinito e un'altra per controllare le sue collisioni: ogni volta che rimbalzerà a un muro, la sua velocità aumenterà
 
 class Ball {
     constructor(gameWidth, gameHeight) {
