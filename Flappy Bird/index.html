@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Flappy bird</title>
+    <link rel="icon" src="assets/favicon.ico" type="image/png" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+        body {
+            background-color: black;
+        }
+        
+        img {
+            display: none;
+        }
+        
+        @font-face {
+            font-family: "flappybird";
+            src: url("flappyFont.ttf");
+        }
+    </style>
+</head>
+
+<body>
+    <center>
+        <canvas id="game" width="550" height="700"></canvas>
+    </center>
+    <img src="yellowbird-midflap.png" id="midflap" />
+    <img src="yellowbird-downflap.png" id="downflap" />
+    <img src="yellowbird-upflap.png" id="upflap" />
+    <img src="background-day.png" id="bgDay" />
+    <img src="background-night.png" id="bgNight" />
+    <img src="pipe-green-up.png" id="tubeUp" />
+    <img src="pipe-green-down.jpg" id="tubeDown" />
+    <img src="message.png" id="tutorial" />
+    <img src="gameover.png" id="gameover" />
+    <script src="index.js"></script>
+</body>
+
+</html>

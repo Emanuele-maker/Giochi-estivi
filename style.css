@@ -1,0 +1,13 @@
+h3,
+img {
+    padding: 10px;
+    display: inline;
+}
+
+button {
+    border: 0px;
+    border-color: white;
+    background-color: white;
+    width: 430px;
+    height: 150px;
+}

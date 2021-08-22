@@ -1,0 +1,15 @@
+{
+    "name": "flappy-bird",
+    "version": "1.0.0",
+    "description": "A simple flappy bird clone",
+    "main": "index.html",
+    "scripts": {
+        "test": "hello, world!",
+        "electron-builder": "electron-builder"
+    },
+    "author": "Manu_Dev",
+    "license": "ISC",
+    "dependencies": {
+        "electron-builder": "^22.11.7"
+    }
+}
