@@ -1,8 +1,8 @@
 /* Pong (Codice sorgente) */
 
 /* 
- * Questo minigioco è un semplice clone del famosissimo Pong, in cui ho voluto ricreare alcune meccaniche basilari da implementare in un gioco
- * per creare gli oggetti ho utilizzato il marcatore HTML <canvas>, che ho scoperto essere molto utile e facile da utilizzare, viste le sue utlissime funzioni implementate
+ * Questo minigioco è un semplice clone del famosissimo Pong, in cui ho voluto ricreare le sue meccaniche
+ * per creare gli oggetti ho utilizzato il marcatore HTML <canvas>, che è molto utile e facile da utilizzare, viste le sue utlissime funzioni implementate
  */
 
 //Questo oggetto rappresenta il giocatore messo più in basso
