@@ -16,5 +16,3 @@ procedurale e casuale, l'ultilizzo dell'orario corrente e tanto altro. Anche se 
 Per ultimo, ho deciso di creare un clone di Space Invaders, un gioco ambientato nello spazio in cui bisogna distruggere le navicelle nemiche. Questa volta ho utilizzato GDevelop 5,
 un software open source fatto per la creazione di giochi con i blocchi ma allo stesso tempo con codice JavaScript. L'ho utilizzato perchè ritengo che per certi aspetti sia più
 produttivo, semplice e veloce da utilizzare
-
-Si possono provare i giochi al seguente link:
