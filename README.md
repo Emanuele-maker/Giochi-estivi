@@ -3,7 +3,7 @@
 # 1) Pong
 
 Come primo gioco, questa estate ho deciso di ricreare Pong, per iniziare a esercitarmi sulle meccaniche di gioco utilizzando il JavaScript (ES6), il linguaggio con il quale mi
-trovo meglio per creare videogiochi. Il gioco in sè è molto semplice: due giocatori fanno rimbalzare una pallinaper cercare di segnare all'avversario. Le meccaniche che ho imparato
+trovo meglio per creare videogiochi. Il gioco in sè è molto semplice: due giocatori fanno rimbalzare una pallina per cercare di segnare all'avversario. Le meccaniche che ho imparato
 a creare sono state le collisioni, il rimbalzo e la velocità permanente.
 
 <p align="center">
